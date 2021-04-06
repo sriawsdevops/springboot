@@ -1,3 +1,3 @@
 ls -l 
-pwd
-pwd
+pwd ( updated as per your comments )
+PR raised by KV
